@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'PKAngThong';
+    src: url('../fonts/PKAngThongMedium.ttf');
+}
+@font-face {
+    font-family: 'BrSweetheartRegular';
+    src: url('../fonts/BrSweetheart-Regular.ttf');
+}
+
+body{
+
+    font-family: 'Mitr', sans-serif;
+    /*font-family: 'PKAngThong', sans-serif;*/
+    /* font-family: 'BrSweetheartRegular', sans-serif; */
+
+}
